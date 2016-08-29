@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/omes"
+            android:title="Accueil" />
+        <item
+            android:id="@+id/nav_localisation"
+            android:icon="@drawable/localiser"
+            android:title="Localisation" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/message"
+            android:title="Notification" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Parametres" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="Partager" />
+            <item
+                android:id="@+id/nav_propos"
+                android:icon="@drawable/propos"
+                android:title="A propos" />
+        </menu>
+    </item>
+
+</menu>

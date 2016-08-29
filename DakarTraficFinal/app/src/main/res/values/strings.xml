@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Dakar Trafic</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_sign_in_short">Envoyer</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Mot de passe trop petit, entrer au minimum 6 caractères!</string>
+    <string name="auth_failed">Authentification échoué, verifiez votre email ou mot de passe ou sinscrire</string>
+    <string name="change_email">Changer Email</string>
+    <string name="change_password">Changer mot de passe</string>
+    <string name="send_password_reset_email">Envoyer mot de passe et réinitialiser votre email</string>
+    <string name="remove_user">Supprimer votre compte</string>
+    <string name="new_pass">Nouveau Mot de passe</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Se connecter</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_name">Votre nom</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_link_to_register">Pas encore membre? Inscription!</string>
+    <string name="btn_link_to_login">Deja membre. Se connecter!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Mot de passe oublié?</string>
+    <string name="btn_reset_password">Réinitialiser votre mot de passe</string>
+    <string name="btn_back"><![CDATA[<< Retour]]></string>
+    <string name="hint_new_email">Nouveau Email</string>
+    <string name="btn_change">Changer</string>
+    <string name="btn_send">Envoyer</string>
+    <string name="btn_remove">Supprimer</string>
+    <string name="btn_sign_out">Se Deconnecter</string>
+    <string name="lbl_forgot_password">Mot de passe oublié?</string>
+    <string name="forgot_password_msg">Nous avons juste besoin de votre email pour envoyer les instructions de réinitialiser du mot de passe.</string>
+    <string name="title_activity_main">Accueil</string>
+    <string name="app_connexion">Connexion</string>
+    <string name="app_parametres">Paramètres</string>
+    <string name="app_ins">Inscription</string>
+    <string name="show_map_string">Voir votre position sur le Map </string>
+    <string name="location_string">Entrez votre Location</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
